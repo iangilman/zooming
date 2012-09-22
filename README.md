@@ -13,6 +13,7 @@ Content needed! File issues or send a pull requests.
 * http://chrisjordan.com/gallery/rtn/#meditation
 * http://dump.ventero.de/xkcd1110/
 * http://xkcd-map.rent-a-geek.de/
+* http://raskinformac.com/
 
 # Tools
 
