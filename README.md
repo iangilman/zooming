@@ -14,6 +14,7 @@ Content needed! File issues or send a pull requests.
 * http://dump.ventero.de/xkcd1110/
 * http://xkcd-map.rent-a-geek.de/
 * http://raskinformac.com/
+* http://sixdegrees.hu/last.fm/interactive_map.html
 
 # Tools
 
