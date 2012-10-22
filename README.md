@@ -34,6 +34,8 @@ Content needed! File issues or send a pull requests.
 * http://thatcher.github.com/openseadragon/
 * http://www.openzoom.org/
 * http://leaflet.cloudmade.com/
+* http://bartaz.github.com/impress.js
+* http://dizzy.metafnord.org/
 
 # Information
 
