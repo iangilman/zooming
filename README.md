@@ -37,6 +37,7 @@ Content needed! File issues or send a pull requests.
 * http://bartaz.github.com/impress.js
 * http://dizzy.metafnord.org/
 * https://github.com/benvanik/zooming-framework
+* https://github.com/openzoom/deepzoom.py
 
 # Information
 
