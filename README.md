@@ -39,6 +39,7 @@ Content needed! File issues or send a pull requests.
 * http://dizzy.metafnord.org/
 * https://github.com/benvanik/zooming-framework
 * https://github.com/openzoom/deepzoom.py
+* http://iipimage.sourceforge.net/
 
 # Information
 
