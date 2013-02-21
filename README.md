@@ -33,7 +33,7 @@ Content needed! File issues or send a pull requests.
 * http://janne.aukia.com/zoomooz/
 * http://fittextjs.com/
 * http://polymaps.org/
-* http://thatcher.github.com/openseadragon/
+* http://openseadragon.github.com/
 * http://www.openzoom.org/
 * http://leaflet.cloudmade.com/
 * http://bartaz.github.com/impress.js
