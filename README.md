@@ -17,6 +17,9 @@ Content needed! File issues or send a pull requests.
 * http://sixdegrees.hu/last.fm/interactive_map.html
 * http://www.rauzier-hyperphoto.com/cour-de-marbre/
 * http://jennmlin.com/
+* http://www.leoburnett.ca/
+* http://www.bio-bak.nl/ (NSFW)
+* http://www.zoomism.com/
 
 # Tools
 
