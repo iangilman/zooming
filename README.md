@@ -44,6 +44,7 @@ Content needed! File issues or send a pull requests.
 * https://github.com/benvanik/zooming-framework
 * https://github.com/openzoom/deepzoom.py
 * http://iipimage.sourceforge.net/
+* http://www.rmh.uwyo.edu/gmapviewer/about.php
 
 # Information
 
