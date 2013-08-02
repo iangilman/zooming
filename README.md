@@ -47,6 +47,7 @@ Content needed! File issues or send a pull requests.
 * http://iipimage.sourceforge.net/
 * http://www.rmh.uwyo.edu/gmapviewer/about.php
 * [django-openzoom](https://pypi.python.org/pypi/django-openzoom/)
+* http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS
 
 # Information
 
