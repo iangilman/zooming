@@ -48,6 +48,7 @@ Content needed! File issues or send a pull requests.
 * http://www.rmh.uwyo.edu/gmapviewer/about.php
 * [django-openzoom](https://pypi.python.org/pypi/django-openzoom/)
 * http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS
+* http://cubiq.org/iscroll-5, demo: http://lab.cubiq.org/zoom/
 
 # Information
 
