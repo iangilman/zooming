@@ -40,7 +40,7 @@ Content needed! File issues or send a pull requests.
 * http://openseadragon.github.com/
 * http://www.openzoom.org/
 * http://leaflet.cloudmade.com/
-* http://bartaz.github.com/impress.js
+* http://bartaz.github.com/impress.js / http://jmpressjs.github.io/jmpress.js/
 * http://dizzy.metafnord.org/
 * https://github.com/benvanik/zooming-framework
 * https://github.com/openzoom/deepzoom.py
