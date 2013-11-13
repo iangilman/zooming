@@ -6,7 +6,6 @@ Content needed! File issues or send a pull requests.
 
 # Examples
 
-* http://scaleofuniverse.com/
 * http://chroniclingamerica.loc.gov/lccn/sn82016455/1882-03-07/ed-1/seq-1/
 * http://art.sy/artwork/saint-clair-cemin-greece (Click the image)
 * http://iangilman.com/projects/snapdragon/
