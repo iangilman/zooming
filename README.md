@@ -20,6 +20,7 @@ Content needed! File issues or send a pull requests.
 * http://www.bio-bak.nl/ (NSFW)
 * http://www.zoomism.com/
 * http://www.smudgedcat.com/infinitedoodle.htm
+* http://www.chronozoom.com
 
 # Tools
 
