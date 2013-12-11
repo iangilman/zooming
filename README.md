@@ -52,8 +52,8 @@ Content needed! File issues or send a pull requests.
 
 # Information
 
-* http://florianguenther.com/zui/
-* http://florianguenther.com/zui/examples.html
+* http://florianguenther.github.io/zui/
+* http://florianguenther.github.io/zui/examples.html
 * http://dragonosticism.wordpress.com/
 * http://msdn.microsoft.com/en-us/library/cc645050%28VS.95%29.aspx
 * http://benvanik.tumblr.com/tagged/zooming
