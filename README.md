@@ -21,6 +21,7 @@ Content needed! File issues or send a pull requests.
 * http://www.zoomism.com/
 * http://www.smudgedcat.com/infinitedoodle.htm
 * http://www.chronozoom.com
+* http://bav.bodleian.ox.ac.uk/icv/page.php?book=arch._b_b.10
 
 # Tools
 
