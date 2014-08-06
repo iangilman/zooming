@@ -40,6 +40,7 @@ Content needed! File issues or send a pull requests.
 * http://fittextjs.com/
 * http://polymaps.org/
 * http://openseadragon.github.com/
+* https://github.com/seajax/seajax
 * http://www.openzoom.org/
 * http://leaflet.cloudmade.com/
 * http://bartaz.github.com/impress.js / http://jmpressjs.github.io/jmpress.js/
@@ -51,6 +52,7 @@ Content needed! File issues or send a pull requests.
 * [django-openzoom](https://pypi.python.org/pypi/django-openzoom/)
 * http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS
 * http://cubiq.org/iscroll-5, demo: http://lab.cubiq.org/zoom/
+* http://lobsterpot.com.au/pivotviewer/getting-started-2
 
 # Information
 
