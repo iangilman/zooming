@@ -31,6 +31,7 @@ Content needed! File issues or send a pull requests.
 * http://zoom.it/
 * http://infinitecanvas.jgate.de/
 * http://www.imagesurf.net/
+* http://zoomable.ca/
 
 # Code
 
@@ -54,6 +55,7 @@ Content needed! File issues or send a pull requests.
 * http://cubiq.org/iscroll-5, demo: http://lab.cubiq.org/zoom/
 * http://lobsterpot.com.au/pivotviewer/getting-started-2
 * http://www.ajax-zoom.com/
+* https://github.com/nfabre/deepzoom.php
 
 # Information
 
