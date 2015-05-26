@@ -32,6 +32,7 @@ Content needed! File issues or send a pull requests.
 * http://infinitecanvas.jgate.de/
 * http://www.imagesurf.net/
 * http://zoomable.ca/
+* http://imagediver.org
 
 # Code
 
