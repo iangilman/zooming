@@ -70,6 +70,9 @@ Content needed! File issues or send a pull requests.
 * [Ben Bederson's "The promise of zoomable user interfaces" paper](http://www.cs.umd.edu/~bederson/images/pubs_pdfs/2011_-_BIT_-_Promise_of_ZUIs.pdf) (pdf)
 * [Ben Bederson's "The promise of zoomable user interfaces" slide deck](http://www.slideshare.net/bederson/promise-of-zoomable-user-interfaces)
 * [Ben Bederson's ZUI Videos](http://www.youtube.com/playlist?list=PL6BF97BA70A36F0CC) 
+* [Inside Deep Zoom – Part I: Multiscale Imaging](http://web.archive.org/web/20150429205932/http://www.gasi.ch/blog/inside-deep-zoom-1/)
+* [Inside Deep Zoom – Part II: Mathematical Analysis](http://web.archive.org/web/20150429205956/http://www.gasi.ch/blog/inside-deep-zoom-2)
+* [Inside Deep Zoom – Part III: Deep Zoom in Flash](http://web.archive.org/web/20150404123937/http://www.gasi.ch/blog/inside-deep-zoom-3/)
 
 # People
 
