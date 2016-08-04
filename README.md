@@ -34,6 +34,7 @@ Content needed! File issues or send a pull requests.
 * http://www.imagesurf.net/
 * http://zoomable.ca/
 * http://imagediver.org
+* http://demo.zegami.com/
 
 # Code
 
