@@ -35,6 +35,8 @@ Content needed! File issues or send a pull requests.
 * http://zoomable.ca/
 * http://imagediver.org
 * http://demo.zegami.com/
+* https://sirv.com/
+* http://micr.io/
 
 # Code
 
