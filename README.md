@@ -61,6 +61,7 @@ Content needed! File issues or send a pull requests.
 * http://lobsterpot.com.au/pivotviewer/getting-started-2
 * http://www.ajax-zoom.com/
 * https://github.com/nfabre/deepzoom.php
+* https://pannellum.org/
 
 # Information
 
