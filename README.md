@@ -58,7 +58,6 @@ Content needed! File issues or send a pull requests.
 * [django-openzoom](https://pypi.python.org/pypi/django-openzoom/)
 * http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS
 * http://cubiq.org/iscroll-5, demo: http://lab.cubiq.org/zoom/
-* http://lobsterpot.com.au/pivotviewer/getting-started-2
 * http://www.ajax-zoom.com/
 * https://github.com/nfabre/deepzoom.php
 * https://pannellum.org/
